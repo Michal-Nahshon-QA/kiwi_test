@@ -4,10 +4,9 @@ This is an individual project I completed as part of my QA course. The aim of th
 
 Structure
 
-STP: 
-Describes the purpose, scope, and objectives of the testing process.
-STD: 
-Contains the test cases for smoke tests, sanity tests, and specific areas I chose to focus on. (Files starting with the letters B-E) 
-STR: 
-Summarizes the bugs found and provides recommendations for improvement.
+STP: Describes the purpose, scope, and objectives of the testing process.
+
+STD: Contains the test cases for smoke tests, sanity tests, and specific areas I chose to focus on. (Files starting with the letters B-E) 
+
+STR: Summarizes the bugs found and provides recommendations for improvement.
 
